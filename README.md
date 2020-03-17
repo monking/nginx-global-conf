@@ -2,7 +2,7 @@
 
 Basic setup and URL rewriting for a few common frameworks.
 
-- Basic PHP setup
+- Basic PHP setup (v7.2)
 - Cake PHP
 - Express (Node)
-- WordPress
+- WordPress, wp-stack (Wordpress in a subdirectory)
